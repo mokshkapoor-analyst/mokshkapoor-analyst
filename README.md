@@ -8,7 +8,7 @@
 
 - 📊 Passionate about working with data and solving real-world problems  
 - 📈 Skilled in data analysis, visualization, and reporting  
-- 🌱 Currently enhancing my skills in Python and advanced analytics  
+- 🌱 Currently working on Power BI projects to strengthen my data visualization and analytics skills  
 - 💡 Interested in business insights, dashboards, and data storytelling  
 
 ---
