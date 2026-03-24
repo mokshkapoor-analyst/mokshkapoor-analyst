@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Moksh!
 
-🎯 **Aspiring Data Analyst** passionate about turning raw data into meaningful insights.
+🎯 I am an **Aspiring Data Analyst** with strong practical experience in SQL, Power BI, and Excel, gained through hands-on academic and self-driven projects.
+
+I specialize in cleaning, analyzing, and transforming raw datasets into structured insights and interactive dashboards that support data-driven decision-making. I enjoy identifying trends, tracking KPIs, and presenting business performance in a clear and actionable way.
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Passionate about working with data and solving real-world problems  
+- 📊 Passionate about working with data and solving real-world problems
+- 📊 Passionate about turning raw data into meaningful insights
 - 📈 Skilled in data analysis, visualization, and reporting  
 - 🌱 Currently working on Power BI projects to strengthen my data visualization and analytics skills  
 - 💡 Interested in business insights, dashboards, and data storytelling  
