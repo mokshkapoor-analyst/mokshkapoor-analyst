@@ -4,7 +4,9 @@
 
 I specialize in cleaning, analyzing, and transforming raw datasets into structured insights and interactive dashboards that support data-driven decision-making. I enjoy identifying trends, tracking KPIs, and presenting business performance in a clear and actionable way.
 
----
+<p align="left">
+  <img src="Moksh-Kapoor.gif" width="400"/>
+</p>
 
 ## 🚀 About Me
 
