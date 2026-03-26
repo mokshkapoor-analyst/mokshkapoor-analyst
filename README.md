@@ -36,12 +36,8 @@ In the meantime, feel free to explore my work on LinkedIn.
 
 ## 📫 Connect With Me
 
-<p>💼 <strong>LinkedIn:</strong> 
-  <a href="https://www.linkedin.com/in/moksh-kapoor-618495322" target="_blank" style="text-decoration:none; color:#0A66C2;">
-    Connect with me
-  </a>
-</p>
-- 📧 **Email:** [kapoormoksh023@gmail.com]  
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/moksh-kapoor-618495322)
+- 📧 **Email:** [kapoormoksh023@gmail.com](mailto:kapoormoksh023@gmail.com)
 
 ---
 
